@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import SEOHead from "@/components/SEOHead";
 import logo from "@/assets/logo.png";
 
-const GITHUB_REPO = "https://github.com/codingshot/mosquesteps";
+const GITHUB_REPO = "https://github.com/ummahbuild/mosquesteps";
 const ISSUES = `${GITHUB_REPO}/issues`;
 const NEW_ISSUE = (template: string) => `${ISSUES}/new?template=${template}`;
 

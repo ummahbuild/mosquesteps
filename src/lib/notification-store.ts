@@ -77,7 +77,7 @@ function persist(notifications: AppNotification[]): void {
 
 // ---- GitHub issue URL helpers ----
 
-const GITHUB_REPO = "https://github.com/codingshot/mosquesteps";
+const GITHUB_REPO = "https://github.com/ummahbuild/mosquesteps";
 
 export const ISSUE_URLS = {
   bug: `${GITHUB_REPO}/issues/new?template=bug_report.md`,

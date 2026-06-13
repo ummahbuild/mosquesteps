@@ -3,7 +3,7 @@ import { Sun, Moon, Monitor } from "lucide-react";
 import { useTheme } from "@/hooks/use-theme";
 import logo from "@/assets/logo.png";
 
-const GITHUB_REPO = "https://github.com/codingshot/mosquesteps";
+const GITHUB_REPO = "https://github.com/ummahbuild/mosquesteps";
 
 const XIcon = () => (
   <svg viewBox="0 0 24 24" className="w-4 h-4 fill-current" aria-hidden="true">

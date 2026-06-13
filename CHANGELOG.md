@@ -52,5 +52,5 @@ All notable changes to MosqueSteps are documented here. The project follows [Sem
 
 ---
 
-[Unreleased]: https://github.com/codingshot/mosquesteps/compare/main...HEAD
-[1.0.0]: https://github.com/codingshot/mosquesteps/releases/tag/v1.0.0
+[Unreleased]: https://github.com/ummahbuild/mosquesteps/compare/main...HEAD
+[1.0.0]: https://github.com/ummahbuild/mosquesteps/releases/tag/v1.0.0

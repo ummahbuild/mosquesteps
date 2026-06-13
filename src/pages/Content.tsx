@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import SEOHead from "@/components/SEOHead";
 import logo from "@/assets/logo.png";
 
-const GITHUB = "https://github.com/codingshot/mosquesteps";
+const GITHUB = "https://github.com/ummahbuild/mosquesteps";
 const blob = (path: string) => `${GITHUB}/blob/main/${path}`;
 
 export default function Content() {
@@ -260,7 +260,7 @@ export default function Content() {
         </section>
 
         <p className="text-xs text-muted-foreground border-t border-border pt-6">
-          Repository: <a href={GITHUB} target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">github.com/codingshot/mosquesteps</a>. This page is for internal content mapping and is not linked from the main site.
+          Repository: <a href={GITHUB} target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">github.com/ummahbuild/mosquesteps</a>. This page is for internal content mapping and is not linked from the main site.
         </p>
       </main>
     </div>

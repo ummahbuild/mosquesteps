@@ -287,7 +287,7 @@ export default function Changelog() {
 
         <p className="text-xs text-muted-foreground mt-8 border-t border-border pt-6">
           For full release history and technical details, see the repository{" "}
-          <a href="https://github.com/codingshot/mosquesteps/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">
+          <a href="https://github.com/ummahbuild/mosquesteps/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">
             CHANGELOG.md
           </a>.
         </p>

@@ -13,7 +13,7 @@ The **production web app** is served at the root domain **MosqueSteps.com**. Use
 
 All paths below are relative to that root (e.g. `/brand` → [https://mosquesteps.com/brand](https://mosquesteps.com/brand)).
 
-**Repo:** [https://github.com/codingshot/mosquesteps](https://github.com/codingshot/mosquesteps)  
+**Repo:** [https://github.com/ummahbuild/mosquesteps](https://github.com/ummahbuild/mosquesteps)  
 **Stack (web):** React 18, TypeScript, Vite, Tailwind, shadcn/ui, Leaflet, React Router, TanStack Query, localStorage-only persistence (no custom backend for core product).
 
 ---
@@ -554,7 +554,7 @@ Map steps/min to Stationary / Slow / Dignified / Brisk / Too Fast for UI hints.
 
 ## 16. GitHub issue templates (for in-app “report” links)
 
-Base repo: `https://github.com/codingshot/mosquesteps`
+Base repo: `https://github.com/ummahbuild/mosquesteps`
 
 Issue query templates used in app: `bug_report.md`, `feature_request.md`, `mosque_data.md`, `content_issue.md`, `prayer_times.md` (paths under `.github/ISSUE_TEMPLATE/`).
 

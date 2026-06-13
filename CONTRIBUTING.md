@@ -64,11 +64,11 @@ We use **GitHub Issues** with templates so we get the information we need quickl
 
 | Template | When to use | Link |
 |----------|-------------|------|
-| **Bug Report** | Something isn’t working (app, PWA, browser) | [Open bug report](https://github.com/codingshot/mosquesteps/issues/new?template=bug_report.md) |
-| **Feature Request** | New feature or improvement idea | [Open feature request](https://github.com/codingshot/mosquesteps/issues/new?template=feature_request.md) |
-| **Mosque Data** | Missing, wrong, or duplicate mosque | [Open mosque issue](https://github.com/codingshot/mosquesteps/issues/new?template=mosque_data.md) |
-| **Content Issue** | Hadith, translation, blog, or guide error | [Open content issue](https://github.com/codingshot/mosquesteps/issues/new?template=content_issue.md) |
-| **Prayer Times** | Wrong prayer times for a location | [Open prayer times issue](https://github.com/codingshot/mosquesteps/issues/new?template=prayer_times.md) |
+| **Bug Report** | Something isn’t working (app, PWA, browser) | [Open bug report](https://github.com/ummahbuild/mosquesteps/issues/new?template=bug_report.md) |
+| **Feature Request** | New feature or improvement idea | [Open feature request](https://github.com/ummahbuild/mosquesteps/issues/new?template=feature_request.md) |
+| **Mosque Data** | Missing, wrong, or duplicate mosque | [Open mosque issue](https://github.com/ummahbuild/mosquesteps/issues/new?template=mosque_data.md) |
+| **Content Issue** | Hadith, translation, blog, or guide error | [Open content issue](https://github.com/ummahbuild/mosquesteps/issues/new?template=content_issue.md) |
+| **Prayer Times** | Wrong prayer times for a location | [Open prayer times issue](https://github.com/ummahbuild/mosquesteps/issues/new?template=prayer_times.md) |
 
 ### Before you open an issue
 
@@ -89,7 +89,7 @@ We use **GitHub Issues** with templates so we get the information we need quickl
 
 ### Setup and workflow
 
-1. **Fork** the repo on GitHub: [github.com/codingshot/mosquesteps](https://github.com/codingshot/mosquesteps) → Fork.
+1. **Fork** the repo on GitHub: [github.com/ummahbuild/mosquesteps](https://github.com/ummahbuild/mosquesteps) → Fork.
 2. **Clone** your fork locally:
    ```bash
    git clone https://github.com/YOUR_USERNAME/mosquesteps.git
@@ -97,7 +97,7 @@ We use **GitHub Issues** with templates so we get the information we need quickl
    ```
 3. **Add upstream** (optional but recommended):
    ```bash
-   git remote add upstream https://github.com/codingshot/mosquesteps.git
+   git remote add upstream https://github.com/ummahbuild/mosquesteps.git
    ```
 4. **Install** and run the app:
    ```bash
@@ -184,7 +184,7 @@ MosqueSteps does **not** store mosque data. We use **OpenStreetMap** (Overpass A
 3. Tag the place with `amenity=place_of_worship` and `religion=muslim`. Add name, address, and location.
 4. Save. Changes usually appear in MosqueSteps after OSM updates (can take a short while).
 
-You can still [open a Mosque Data issue](https://github.com/codingshot/mosquesteps/issues/new?template=mosque_data.md) if you want us to know about a problem or can’t edit OSM yourself.
+You can still [open a Mosque Data issue](https://github.com/ummahbuild/mosquesteps/issues/new?template=mosque_data.md) if you want us to know about a problem or can’t edit OSM yourself.
 
 ---
 
@@ -261,8 +261,8 @@ When contributing **hadith references** or **Islamic educational content**:
 
 ## Community & Contact
 
-- **GitHub Issues** — Bugs, features, and questions: [github.com/codingshot/mosquesteps/issues](https://github.com/codingshot/mosquesteps/issues)
-- **GitHub Discussions** — Ideas and general chat (if enabled): [github.com/codingshot/mosquesteps/discussions](https://github.com/codingshot/mosquesteps/discussions)
+- **GitHub Issues** — Bugs, features, and questions: [github.com/ummahbuild/mosquesteps/issues](https://github.com/ummahbuild/mosquesteps/issues)
+- **GitHub Discussions** — Ideas and general chat (if enabled): [github.com/ummahbuild/mosquesteps/discussions](https://github.com/ummahbuild/mosquesteps/discussions)
 - **X (Twitter)** — [@ummahbuild](https://x.com/ummahbuild)
 - **LinkedIn** — [ummah-build](https://www.linkedin.com/company/ummah-build/)
 - **Website** — [mosquesteps.com](https://mosquesteps.com)

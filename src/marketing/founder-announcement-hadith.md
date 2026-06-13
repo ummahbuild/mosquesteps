@@ -48,7 +48,7 @@ All linked to Sunnah.com in the app.
 
 **Tweet 5 (open source & test)**  
 100% open source. No backend. No tracking.  
-Repo: github.com/codingshot/mosquesteps  
+Repo: github.com/ummahbuild/mosquesteps  
 I’d love for you to try it and tell me what breaks or what’s missing:  
 • Step tracking (walk to your mosque)  
 • Prayer times & leave-by alerts  
@@ -109,7 +109,7 @@ mosquesteps.com
 **Post C (open source)**  
 MosqueSteps is 100% open source.  
 No servers. No login. No tracking.  
-You can read every line: github.com/codingshot/mosquesteps  
+You can read every line: github.com/ummahbuild/mosquesteps  
 If you walk to the masjid, try it and open an issue if something’s wrong.  
 mosquesteps.com
 
@@ -232,10 +232,10 @@ Share this list when asking people to try the app:
 
 ## Open source one-liners (for any platform)
 
-- MosqueSteps is completely open source. No account, no tracking, no backend. github.com/codingshot/mosquesteps
+- MosqueSteps is completely open source. No account, no tracking, no backend. github.com/ummahbuild/mosquesteps
 - 100% open source. Read every line. No servers, no login. mosque steps, prayer times, mosque finder — all in the browser.
 - Built for the ummah, open for the world. MosqueSteps is free and fully open source. Contribute or just use it. mosquesteps.com
-- No black box. MosqueSteps is open source so you can see how we calculate steps and rewards from the hadiths. github.com/codingshot/mosquesteps
+- No black box. MosqueSteps is open source so you can see how we calculate steps and rewards from the hadiths. github.com/ummahbuild/mosquesteps
 
 ---
 

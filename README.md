@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://mosquesteps.com"><img src="https://img.shields.io/badge/Live-mosquesteps.com-0D7377" alt="Live App" /></a>
   <a href="https://ummah.build"><img src="https://img.shields.io/badge/Built%20by-ummah.build-gold" alt="Built by" /></a>
-  <a href="https://github.com/codingshot/mosquesteps"><img src="https://img.shields.io/badge/GitHub-codingshot%2Fmosquesteps-181717?logo=github" alt="GitHub" /></a>
+  <a href="https://github.com/ummahbuild/mosquesteps"><img src="https://img.shields.io/badge/GitHub-codingshot%2Fmosquesteps-181717?logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/company/ummah-build/"><img src="https://img.shields.io/badge/LinkedIn-ummah--build-0A66C2?logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
@@ -53,7 +53,7 @@ MosqueSteps is a free, privacy-first Progressive Web App (PWA) designed for Musl
 
 ```bash
 # Clone
-git clone https://github.com/codingshot/mosquesteps.git
+git clone https://github.com/ummahbuild/mosquesteps.git
 cd mosquesteps
 
 # Install
@@ -145,11 +145,11 @@ We welcome contributions! See **[CONTRIBUTING.md](CONTRIBUTING.md)** for full gu
 
 ### Quick Links for Issues
 
-- 🐛 [Report a Bug](https://github.com/codingshot/mosquesteps/issues/new?template=bug_report.md)
-- ✨ [Request a Feature](https://github.com/codingshot/mosquesteps/issues/new?template=feature_request.md)
-- 🕌 [Report a Missing/Incorrect Mosque](https://github.com/codingshot/mosquesteps/issues/new?template=mosque_data.md)
-- 📖 [Report a Hadith/Content Issue](https://github.com/codingshot/mosquesteps/issues/new?template=content_issue.md)
-- ⏰ [Report Incorrect Prayer Times](https://github.com/codingshot/mosquesteps/issues/new?template=prayer_times.md)
+- 🐛 [Report a Bug](https://github.com/ummahbuild/mosquesteps/issues/new?template=bug_report.md)
+- ✨ [Request a Feature](https://github.com/ummahbuild/mosquesteps/issues/new?template=feature_request.md)
+- 🕌 [Report a Missing/Incorrect Mosque](https://github.com/ummahbuild/mosquesteps/issues/new?template=mosque_data.md)
+- 📖 [Report a Hadith/Content Issue](https://github.com/ummahbuild/mosquesteps/issues/new?template=content_issue.md)
+- ⏰ [Report Incorrect Prayer Times](https://github.com/ummahbuild/mosquesteps/issues/new?template=prayer_times.md)
 
 ## Hadith References
 
@@ -192,7 +192,7 @@ npx vitest --watch      # Watch mode
 ## Links
 
 - **Website:** [mosquesteps.com](https://mosquesteps.com)
-- **GitHub:** [codingshot/mosquesteps](https://github.com/codingshot/mosquesteps)
+- **GitHub:** [codingshot/mosquesteps](https://github.com/ummahbuild/mosquesteps)
 - **Built by:** [ummah.build](https://ummah.build)
 - **X/Twitter:** [@ummahbuild](https://x.com/ummahbuild)
 - **LinkedIn:** [ummah-build](https://www.linkedin.com/company/ummah-build/)

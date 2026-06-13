@@ -36,7 +36,7 @@ MosqueSteps is a free web app for Muslims who walk to the mosque. Users can trac
 - Built by: [ummah.build](https://ummah.build)
 - Twitter/X: [@ummahbuild](https://x.com/ummahbuild)
 - LinkedIn: [ummah-build](https://www.linkedin.com/company/ummah-build/)
-- GitHub: [codingshot/mosquesteps](https://github.com/codingshot/mosquesteps) (open for contributions)
+- GitHub: [codingshot/mosquesteps](https://github.com/ummahbuild/mosquesteps) (open for contributions)
 
 ## Suggested angles for journalists
 
